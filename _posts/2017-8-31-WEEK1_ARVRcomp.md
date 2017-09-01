@@ -19,6 +19,10 @@ The plethora of augmented reality (AR) applications found on most smartphones/ta
    (b) **Privacy Concerns**: Apps such as Google Translate store the searches or results. This data is fair use for Google to use in their other products when servicing the user. They can share this information with advertisers as well. This raises a concern of privacy and what data should be protected.
 
    (c) **Limited Functions**: As of right now, there is not much AR apps on smartphones/tablets do besides showing 3D models and replacing text on camera.
+## Applications
+
+Various applications of smartphone/tablet AR apps include **education in the classroom, scientific exploration (chemistry, biology), and advertisement**.
+
 # 2. **360 Video**
 360 Video implementations include 360fly ([360fly.com](http://www.360fly.com)), YouTube 360 ([youtube.com](http://www.youtube.com)), and nytvr ([nytimes.com/marketing/nytvr](http://www.nytimes.com/marketing/nytvr)).
 ## Advantages
@@ -31,6 +35,9 @@ The plethora of augmented reality (AR) applications found on most smartphones/ta
    (a) **Grainy Quality**: 360 videos usually do not have the best quality. This is because these video files are huge (they contain, literally, 360 degree of footage) and space is an issue. Even 360 videos on YouTube on 720p quality setting are never really 720p. Thus, 360 videos suffer from this issue.
 
    (b) **Compatibility**: These videos also have problems with adapting to new platforms even within the same OS ecosystem. 360 videos developed for YouTube may not work seamlessly with other apps such as nytvr. These videos must be converted to the specified format and thus compatibility is an issue.
+## Applications
+
+Various applications of 360 video apps include **astronomy (star gazing, cosmic exploration) and live streaming events/news.**.
 
 # 3. **Google Cardboard**
 The Google Cardboard and relevant information can be found at [https://vr.google.com/cardboard/](https://vr.google.com/cardboard/).
@@ -46,6 +53,9 @@ The Google Cardboard and relevant information can be found at [https://vr.google
    (b) **Low Performance/Resolution**: The Cardboard gear does not provide the best VR experience as it is limited by the phone’s hardware as well as low-tech VR mount. Many count the Google Cardboard as Google’s effort to understand how and why customers want to use VR applications. This is really helpful for developers but not so much for users.
    
    (c) **Simulation Sickness**: Simulation sickness is a very real problem with Google Cardboards. There have been instances of people experiencing simulation sickness when using the Cardboard for more than 15 minutes at a time. This can be attributed to the difference between VR reality and actual reality.
+## Applications
+
+Various applications of Google Cardboard include **education, light-weight games, and delivering quick news clips**.
 
 # 4. Microsoft HoloLens
 The Microsoft HoloLens and relevant information can be found at [microsoft.com/en-us/hololens](https://www.microsoft.com/en-us/hololens).
@@ -59,6 +69,9 @@ The Microsoft HoloLens and relevant information can be found at [microsoft.com/e
    (a) **Limited Field of View**: One disadvantage would be the limited field of view I experienced when running the AR game. Maybe it was the demo itself, but the AR field of view felt limited and a bit detached from the real background.
 
    (b) **Restricted Portability**: The biggest disadvantage to HoloLens yet is the fact that you cannot use it out and about. You need it to be connected to a computer for it to run.
+## Applications
+
+Various applications of Microsoft HoloLens include **AR gaming, mixed reality experience, and even computer functions such as browsing, listening to music, and more.**.
 
 # 5. HTC Vive
 The HTC Vive and relevant information can be found at [vive.com/us/](https://www.vive.com/us/).
@@ -76,6 +89,9 @@ The HTC Vive and relevant information can be found at [vive.com/us/](https://www
    (a) **Requires expensive, high performance build**: The biggest disadvantage as of today is the Vive’s need to be connected to a powerful computer system. A sample build today would require an Intel i5-7500, GeForce GTX 1060 3GB GPU, 1TB HDD, 8GB ram, and a decent CPU cooler.
    
    (b) **Safety Hazard**: There is also the issue with safety. There are countless occurrences of VR accidents (or fails) that show how the Vive can be dangerous if not used properly and with appropriate caution. This one video compiles a few of these accidents: [youtu.be/ask3K_wiiKg](https://youtu.be/ask3K_wiiKg).
+## Applications
+
+Various applications of HTC Vive include **VR gaming, education for adults, and data exploration**.
 
 # 6. CAVE2
 The CAVE2 was developed at UIC and related information can be found at [evl.uic.edu/entry.php?id=2016](https://www.evl.uic.edu/entry.php?id=2016).
@@ -91,5 +107,8 @@ The CAVE2 was developed at UIC and related information can be found at [evl.uic.
    (a) **Heavy CPU/GPU Processing**: One downside would be the amount of processing CPUs and GPUs have to do to push all those pixels onto the screens. The simulation itself would require heavy processing and a complicated setup. This is definitely not a easy, portable, or light application of VR.
 
    (b) **Occlusion Issues**: The demo with the Egyptian 360 images showed there were issues with occlusion. However, that can be attributed more to the data collection methods rather than the actual system.
+## Applications
+
+Various applications of CAVE2 include **data exploration (MARS demo, chemistry demo) and widescreen images**.
 
 So these are the various AR/VR platforms and their respective advantages and disadvantages. A doc version of this post can be found at [WEEK1_ARVR_comparison](https://www.dropbox.com/s/1sing3rtt7rn99q/WEEK1_ARVR_comparison.docx?dl=0).
