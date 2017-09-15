@@ -35,7 +35,7 @@ The Chinese text example worked really well considering the amount of text the a
 
 Let us discuss how this technology can be effectively used to aid people all around the world.
 
-   (a) **Travel**: One of the best and currently used f
+   (a) **Travel**: One of the best and current uses of Google Translate and its technology is of travellers and guides. Millions of people travel around the world and often to places where English is not the official language. For example, countries such as China, India, or Japan have scripts written in Cantonese, Hindi, and Kagana respectively. 
 
 The plethora of augmented reality (AR) applications found on most smartphones/tablets today includes apps such as Quiver ([quivervision.com](http://www.quivervision.com)), Pokémon Go ([pokemongo.com](http://www.pokemongo.com)), and even Google Translate ([translate.google.com](http://translate.google.com)).
 ## Advantages
