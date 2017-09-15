@@ -4,6 +4,9 @@ title: Thoughts on Google Translate and AR Issues
 ---
 
 # **Google Translate**
+
+![_config.yml]({{ site.baseurl }}/images/GTranslate/spanish_original.JPG)
+
 The plethora of augmented reality (AR) applications found on most smartphones/tablets today includes apps such as Quiver ([quivervision.com](http://www.quivervision.com)), Pokémon Go ([pokemongo.com](http://www.pokemongo.com)), and even Google Translate ([translate.google.com](http://translate.google.com)).
 ## Advantages
 
