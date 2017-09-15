@@ -31,6 +31,12 @@ Again, we see a similar situation where a piece of French text needs to be trans
 
 The Chinese text example worked really well considering the amount of text the app had to parse through to translate into English. The accuracy can be considered reasonable for the amount of translation done. One thing to notice in live usage was the frame rate considerably dropped to below 15 fps which is a user experience nightmare.
 
+## Thoughts on Possible Future Use
+
+Let us discuss how this technology can be effectively used to aid people all around the world.
+
+   (a) **Travel**: One of the best and currently used f
+
 The plethora of augmented reality (AR) applications found on most smartphones/tablets today includes apps such as Quiver ([quivervision.com](http://www.quivervision.com)), Pokémon Go ([pokemongo.com](http://www.pokemongo.com)), and even Google Translate ([translate.google.com](http://translate.google.com)).
 ## Advantages
 
