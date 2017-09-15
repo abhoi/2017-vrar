@@ -6,11 +6,11 @@ title: Thoughts on Google Translate and AR Issues
 # **Google Translate**
 
 ![Spanish Original]({{ site.url }}/assets/spanish_original.JPG)
-![Spanish Translated]({{ site.url }}/assets/spanish.JPG)
+![Spanish Translated]({{ site.url }}/assets/spanish.PNG)
 ![French Original]({{ site.url }}/assets/french_original.JPG)
-![French Translated]({{ site.url }}/assets/french.JPG)
+![French Translated]({{ site.url }}/assets/french.PNG)
 ![Chinese Original]({{ site.url }}/assets/chinese_original.JPG)
-![Chinese Translated]({{ site.url }}/assets/chinese.JPG)
+![Chinese Translated]({{ site.url }}/assets/chinese.PNG)
 
 The plethora of augmented reality (AR) applications found on most smartphones/tablets today includes apps such as Quiver ([quivervision.com](http://www.quivervision.com)), Pokémon Go ([pokemongo.com](http://www.pokemongo.com)), and even Google Translate ([translate.google.com](http://translate.google.com)).
 ## Advantages
