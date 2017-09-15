@@ -57,7 +57,7 @@ One possible test case could be that this translation feature turns on or off wh
 
 ## Final Thoughts
 
+I believe the biggest issue is the amount of control the user should get over how much augmentation takes place when using the device ("The Glass"). Companies might be inclined to limit user control in order to provide a better experience (Apple does this too much), but this would lead to a worse experience for the user in the context of AR and translation.
 
 
-
-So these are the various AR/VR platforms and their respective advantages and disadvantages. A doc version of this post can be found at [WEEK1_ARVR_comparison](https://www.dropbox.com/s/1sing3rtt7rn99q/WEEK1_ARVR_comparison.docx?dl=0).
+These are some things to consider about the future of AR and Google translation in specific.
