@@ -31,29 +31,19 @@ Again, we see a similar situation where a piece of French text needs to be trans
 
 The Chinese text example worked really well considering the amount of text the app had to parse through to translate into English. The accuracy can be considered reasonable for the amount of translation done. One thing to notice in live usage was the frame rate considerably dropped to below 15 fps which is a user experience nightmare.
 
-## Thoughts on Possible Future Use
+## Effective Use and Possible Future Use
 
-Let us discuss how this technology can be effectively used to aid people all around the world.
+As of now, Google Translate works reasonably well to translate text from one language to another. We can aim our phone's camera towards a piece of text and have it translated. This also requires an internet connection (but it can be waived by downloading the language pack which is about ~35MB). We can also feed the app an image of text to translate locally. However, this feature is limited to our use of the app within our smartphone. Currently, we do not see the world through our smartphone majority of the time (despite the overgrowing concerns that we definitely are!). Our field of view and vision is dependant on our eyes.
 
-   (a) **Travel**: One of the best and current uses of Google Translate and its technology is of travellers and guides. Millions of people travel around the world and often to places where English is not the official language. For example, countries such as China, India, or Japan have scripts written in Cantonese, Hindi, and Kagana respectively. 
+A reasonable assumption for the future can be that we might start wearing "smart glasses" (hint hint [Google Glass](https://www.x.company/glass/)) for the majority of our day. There will be a time when these glasses will be like our smartphone and may overtake our smartphones as the number one electronic device we use. I will refer to any future pair of AR glasses or contact lenses as "The Glass". What happens when "The Glass" dictates its features and usage to us rather than the other way around?
+
+One possible test case could be that this translation feature turns on or off when the application feels is appropriate. In that case, if you are wearing "The Glass", how do you distinguish between real text and overlapped, translated text? How much is the user allowed to control of what is augmented and what is real? These are some ethical/implementation questions we must answer to ensure no malicious activity or "fake" information is conveyed to the user. We can assess the effectiveness of this feature by creating a PRO and CON list.
+
+
 
 The plethora of augmented reality (AR) applications found on most smartphones/tablets today includes apps such as Quiver ([quivervision.com](http://www.quivervision.com)), Pokémon Go ([pokemongo.com](http://www.pokemongo.com)), and even Google Translate ([translate.google.com](http://translate.google.com)).
 ## Advantages
 
    (a) **Portability**: Phones and tablets are ultra-portable and allow users to move about, wander, and explore large areas without any major restrictions (battery life is an exception). AR apps running on these devices makes these apps portable as well.
-
-   (b) **Minimal Setup**: Unlike other AR implementations, AR apps require almost zero setup from the user end. The user just needs to download the app from the App Store and run the AR app. The installation portion of the experience is almost non-existent.
-
-   (c) **Fast Updates**: To improve AR app performance or deliver new content, the app developer just needs to add the changes and push an update to the app. This is fast, efficient, and inexpensive for both the developer and the user.
-## Disadvantages
-
-   (a) **Information Control**: When AR apps are developed, one concern is the amount of information. How much information should the user be allowed to experience at one time without feeling inundated? The user experience should be clear, concise, and clear of redundant views.
-
-   (b) **Privacy Concerns**: Apps such as Google Translate store the searches or results. This data is fair use for Google to use in their other products when servicing the user. They can share this information with advertisers as well. This raises a concern of privacy and what data should be protected.
-
-   (c) **Limited Functions**: As of right now, there is not much AR apps on smartphones/tablets do besides showing 3D models and replacing text on camera.
-## Applications
-
-Various applications of smartphone/tablet AR apps include **education in the classroom, scientific exploration (chemistry, biology), and advertisement**.
 
 So these are the various AR/VR platforms and their respective advantages and disadvantages. A doc version of this post can be found at [WEEK1_ARVR_comparison](https://www.dropbox.com/s/1sing3rtt7rn99q/WEEK1_ARVR_comparison.docx?dl=0).
