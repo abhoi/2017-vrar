@@ -3,9 +3,6 @@ layout: post
 title: Thoughts on Google Translate and AR Issues
 published: true
 ---
-
-# **Google Translate**
-
 Google Translate ([translate.google.com](http://translate.google.com)) is considered the gold standard for translation between various languages. It is not surprising to see the addition of "live translation" aka "image translation". This feature succeeds in segmenting an image or live camera feed and recognizing foreign characters. Not only that, it also succesfully supersedes the original text with an English translation (assuming foreign language to english translation is required)!
 
 Let us first see three examples of such translation that I took in various locations on West Taylor Street here in Chicago.
