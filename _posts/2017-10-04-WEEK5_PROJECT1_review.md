@@ -39,4 +39,32 @@ Lastly, the use of the sound room and more to convert into a music room and kitc
 
 Final thoughts would be how they also implemented frame rates well. On my laptop, the executable lagged a bit. However, the demonstration on the Vive in the classroom had ample frame-rate and was decent. This was the first project I found particularly good.
 
-# 2. TEAM 2 (Amico, Simone | Foglio, Matteo | Milanta, Andrea)
+# 2. TEAM 2 (Jyothula, Sai Priya | Sakhnini, Nina)
+
+The second team project I found innovative and well implemented is the project by Sai Priya and Nina. This project is simple and well made. There are many interactions to play around with and all of them have a functional use rather than just an aesthetic appeal. Some of the things I loved was that you can remove the roof (which I will get to), you can pickup individual chess pieces (our project just picks up the entire chess board), and the effective use of space with respect to work cubicles in the middle of the room.
+
+## Interactions
+
+The first interaction that I love is the way the roof opens up when you trigger into the switch in the left side of the room. The switch is located besides another switch which turns on/off the main light source in the room. The roof opening/closing is also accompanied by a sound trigger. The only thing I did not like about this implementation though is the fact that the roof disappears immediately. The sound trigger suggests the roof is sliding in or out of the ceiling. However, the roof simply disappears in this implementation. That is okay and can be built upon. A gif with these interactions:
+
+[gif]
+
+The second interaction I liked was you can pick up individual chess pieces. The implementation requires a box collider on each of the chess pieces. I believe box colliders do not use that much processing and thus the frame rate was saved. Had they used mesh colliders, the application would have been painfully slow or would have crashed. An image of the colliders and a gif is below:
+
+[chess]
+
+[gif]
+
+## Sound Triggers
+
+Almost every actionable item in the scene has a sound trigger attached to it which is pretty cool. The speakers have bongo music playing, going near the cat makes a meow sound, and the aquarium has a bubble noise when you go close to it. One thing I believe that could be improved is the effective range of these items. For the speakers to work, I have to literally go through the speakers (this is specific to when testing the application on a laptop because you could just touch the speaker using the wand on a HTC Vive).
+
+## Effective Use of Space
+
+The last thing I liked about this project is the effective usage of space. Every part of the room has a dedicated space with a meaning. The front of the room is the meeting area (with the roof placed strategically over it), the middle is the working area with cubicles or polygons, and the rear of the room is the enjoyment area with speakers, water fountain, and chess board.
+
+[image]
+
+All in all, the project is really well made with simple concepts and well executed implementations.
+
+These are the two projects I found well made and worth a good grade!
