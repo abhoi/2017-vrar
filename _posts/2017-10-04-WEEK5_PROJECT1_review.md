@@ -67,4 +67,4 @@ The last thing I liked about this project is the effective usage of space. Every
 
 All in all, the project is really well made with simple concepts and well executed implementations.
 
-These are the two projects I found well made and worth a good grade!
+Finally, these are the two projects I found well made and worth a good grade!
