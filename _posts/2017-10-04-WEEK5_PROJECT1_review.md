@@ -16,6 +16,7 @@ At first glance, the scene of their project looks simple and similar to every ot
 Firstly, I love how they managed to implement GameObject creation with the Coke vending machine. Whenever you tap on the Coke vending machine button, a coke bottle drops from the machine. That would be creation of a GameObject when some interaction is done. Why don’t we see that through a gif interaction instead of an image:
 
 ![Vending Machine]({{ site.url }}/assets/project1_review/coke.gif)
+
 That is clearly a cool concept that was implemented and I have not seen that with any of the other teams (including mine).
 
 ## Sound Loop
@@ -37,3 +38,5 @@ Lastly, the use of the sound room and more to convert into a music room and kitc
 ![Whole Room]({{ site.url }}/assets/project1_review/whole_room.png)
 
 Final thoughts would be how they also implemented frame rates well. On my laptop, the executable lagged a bit. However, the demonstration on the Vive in the classroom had ample frame-rate and was decent. This was the first project I found particularly good.
+
+# 2. TEAM 2 (Amico, Simone | Foglio, Matteo | Milanta, Andrea)
