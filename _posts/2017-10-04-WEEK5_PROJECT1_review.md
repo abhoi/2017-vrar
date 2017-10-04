@@ -47,13 +47,13 @@ The second team project I found innovative and well implemented is the project b
 
 The first interaction that I love is the way the roof opens up when you trigger into the switch in the left side of the room. The switch is located besides another switch which turns on/off the main light source in the room. The roof opening/closing is also accompanied by a sound trigger. The only thing I did not like about this implementation though is the fact that the roof disappears immediately. The sound trigger suggests the roof is sliding in or out of the ceiling. However, the roof simply disappears in this implementation. That is okay and can be built upon. A gif with these interactions:
 
-[gif]
+![Lights GIF]({{ site.url }}/assets/project1_review/lights2.gif)
 
 The second interaction I liked was you can pick up individual chess pieces. The implementation requires a box collider on each of the chess pieces. I believe box colliders do not use that much processing and thus the frame rate was saved. Had they used mesh colliders, the application would have been painfully slow or would have crashed. An image of the colliders and a gif is below:
 
-[chess]
+![Chess]({{ site.url }}/assets/project1_review/chess.png)
 
-[gif]
+![Chess GIF]({{ site.url }}/assets/project1_review/chess.gif)
 
 ## Sound Triggers
 
@@ -63,7 +63,7 @@ Almost every actionable item in the scene has a sound trigger attached to it whi
 
 The last thing I liked about this project is the effective usage of space. Every part of the room has a dedicated space with a meaning. The front of the room is the meeting area (with the roof placed strategically over it), the middle is the working area with cubicles or polygons, and the rear of the room is the enjoyment area with speakers, water fountain, and chess board.
 
-[image]
+![Whole Room]({{ site.url }}/assets/project1_review/whole_room2.png)
 
 All in all, the project is really well made with simple concepts and well executed implementations.
 
