@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Pocket Universe AR Application
+published: true
 ---
 This week, I tried out the Pocket Universe application on my iPhone. The whole point of the Pocket Universe application is to overlay celestial objects on top of the image feed from your iPhone camera. This employs a certain aspect of Augmented Reality. The big surge of Augmented Reality in recent years has exponentiated the usage of Augmented Reality. This has also been bolstered by support from Apple (ARKit) and Google (ARCore). How did the application go? Let us look at an example:
 
@@ -16,4 +18,3 @@ The accuracy is great of the image being overlayed, however, there is not too mu
 How does AR work for implementation like this in the future? Let us imagine a scientist or a researcher working with astronomy implementations. They can easily locate celestial objects for collaboration for research or even just data visualization. There are endless possibilities with this and you can take it anywhere. You can even make an easy application for children to learn about astronomy.
 
 Imagine a future where we have AR glasses. The usage of these AR technologies would create a world of data overload. However, in the right implementation, it would be the best usage. You could just point the glasses at the sky and look for information about celestial bodies including solar system bodies and even exoplanet systems. NASA and SpaceX are some companies that could greatly benefit from these advancements in AR. Those are some of my thoughts on using the Pocket Universe AR application and the usage of AR in the future.
-
