@@ -63,4 +63,8 @@ Our data will primarily be sourced from:
 1. **Google Maps API:** [https://developers.google.com/maps/](https://developers.google.com/maps/)
 2. **Google Places API:** [https://developers.google.com/places/](https://developers.google.com/places/)
 
+More information sources may be added as needed and everything is purely dynamic with nothing being hard-coded.
+
+This is the proposal for Project 3 which we believe is applicable, useful, and a great addition to the AR community.
+
 
