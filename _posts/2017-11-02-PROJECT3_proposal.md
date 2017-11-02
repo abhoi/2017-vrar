@@ -5,7 +5,7 @@ published: true
 ---
 ## ARYouThereYet
 
-The application we are developing is an Augmented Reality application usable primarily for walking navigation. 
+The application we are developing is an Augmented Reality application usable primarily for walking navigation. In today's world, when we travel to unknown places or are just looking for something fun while exploring the city, we often get lost and are unable to locate where we are. Maps such as Google Maps or Apple Maps do a good job coordinating us towards a destination, but they are not intuitive at all and often confuse us even more. The primary motivation for us to develop this application is to bridge this gap by creating an intuitive and immersive experience for the user by using the power of Augmented Reality and overlaying virtual objects onto the real world in order to make more sense of what is around us.
 
 ### General Description
 
