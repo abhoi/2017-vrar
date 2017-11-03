@@ -12,23 +12,25 @@ Following are some hand designed views we believe are appropriate for the applic
 
 ![p3_1]({{ site.url }}/assets/p3_1.jpg)
 
-The second one goes into more details of the "Detailed view" and "Filter view". Note, none of this is final and more things will be added/removed based on feasibility, appropriateness, and functionality wise:
+The second one goes into more details of the **"Detailed view"** and **"Filter view"**. Note, none of this is final and more things will be added/removed based on feasibility, appropriateness, and functionality wise:
 
 ![p3_2]({{ site.url }}/assets/p3_2.jpg)
 
-An minimal inspiration for the navigation view is inspired by Andrew Hart's [project](https://github.com/ProjectDent):
+A minimal inspiration for the navigation view is inspired by Andrew Hart's [project](https://github.com/ProjectDent):
 
 ![Demonstration]({{ site.url }}/assets/ar2.gif)
+
+Lots more detail and better looking 3D models will be used instead of the stock shapes.
 
 ### General Description
 
 The primary features we aim to implement in the application are:
 
-1. Insert a HUD popup of basic information about places in current camera view with following information:
+1. Insert a **HUD popup** of basic information about places in current camera view with following information:
 	- Place Type Icon
     - Place Name
     - Distance from current location in miles
-2. Click on desirable popup to view more information about the place including:
+2. Click on desirable popup to view **more information** about the place including:
 	- A descriptive picture of the place
     - Description box with quick description of the place
     - Picture collage to view more pictures
@@ -36,16 +38,16 @@ The primary features we aim to implement in the application are:
     - Share button to open Apple sharesheet (can share location)
     - Reviews of the place (out of 5 stars)
     - Context aware box that changes content based on type of place (events, shows, movies, etc)
-3. A navigation view when clicked on desired location that has 3D arrows leading to the destination.
-4. Dynamically filter places you want to see in the ARScene view.
+3. A **navigation view** when clicked on desired location that has 3D arrows leading to the destination.
+4. **Dynamically filter places** you want to see in the ARScene view.
 
 ### Hardware Platform
 
-Our application will be developed primarily for the Apple iPhone. Specifically, ARKit supports any iPhone with an A9 processor and above. That translates to iPhone 6s and any iPhone released after that.
+Our application will be developed primarily for the **Apple iPhone**. Specifically, ARKit supports any iPhone with an A9 processor and above. That translates to **iPhone 6s** and any iPhone released after that.
 
 ### Software
 
-The application is going to be built using [Apple’s Xcode IDE](https://developer.apple.com/xcode/), [ARKit framework](https://developer.apple.com/documentation/arkit), and [Google Maps API](https://developers.google.com/maps/) and [Google Places API](https://developers.google.com/places/).
+The application is going to be built using **[Apple’s Xcode IDE](https://developer.apple.com/xcode/)**, [ARKit framework](https://developer.apple.com/documentation/arkit), and **[Google Maps API](https://developers.google.com/maps/)** and **[Google Places API](https://developers.google.com/places/)**.
 
 ### Team Member and Responsibilities
 
