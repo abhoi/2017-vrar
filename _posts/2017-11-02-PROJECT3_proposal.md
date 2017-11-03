@@ -16,7 +16,7 @@ The second one goes into more details of the **"Detailed view"** and **"Filter v
 
 ![p3_2]({{ site.url }}/assets/p3_2.jpg)
 
-A minimal inspiration for the navigation view is inspired by Andrew Hart's [project](https://github.com/ProjectDent):
+A minimal inspiration for the navigation view is inspired by Andrew Hart's [project](https://github.com/ProjectDent/ARKit-CoreLocation):
 
 ![Demonstration]({{ site.url }}/assets/ar2.gif)
 
