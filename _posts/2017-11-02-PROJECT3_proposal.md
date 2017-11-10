@@ -47,7 +47,7 @@ Our application will be developed primarily for the **Apple iPhone**. Specifical
 
 ### Software
 
-The application is going to be built using **[Apple’s Xcode IDE](https://developer.apple.com/xcode/)**, [ARKit framework](https://developer.apple.com/documentation/arkit), and **[Google Maps API](https://developers.google.com/maps/)** and **[Google Places API](https://developers.google.com/places/)**.
+The application is going to be built using **[Apple’s Xcode IDE](https://developer.apple.com/xcode/)**, **[ARKit framework](https://developer.apple.com/documentation/arkit)**, and **[Google Maps API](https://developers.google.com/maps/)** and **[Google Places API](https://developers.google.com/places/)**.
 
 ### Team Member and Responsibilities
 
@@ -67,5 +67,3 @@ Our data will primarily be sourced from:
 More information sources may be added as needed and everything is purely dynamic with nothing being hard-coded.
 
 This is the proposal for Project 3 which we believe is applicable, useful, and a great addition to the AR community!
-
-
