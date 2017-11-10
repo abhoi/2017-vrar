@@ -64,4 +64,4 @@ With everything going on in this project, interaction, unfortunately, is **not**
 
 One can imagine the possible interactions though. You could shake hands with the other person, throw around objects in the mixed reality world, or even save some objects for later use. Microsoft’s other [projects](https://www.microsoft.com/en-us/hololens) have worked on augmented reality where  users can pin objects. Perhaps, they can port that technology to this one.
 
-Overall, Holoportation is a great piece of invention and has lots of things to check off before it can truly become revolutionary. Still, it is one of the biggest steps forward in mixed reality, augmented reality, and virtual reality.
+Overall, Holoportation is a great piece of invention and has lots of things to check off before it can truly become revolutionary. Still, it is one of the biggest steps forward in the field of mixed reality, augmented reality, and virtual reality.
