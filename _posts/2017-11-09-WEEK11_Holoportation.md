@@ -52,7 +52,7 @@ Imagine a scenario with a remote village that requires medical assistance but is
 
 Another scenario can be something that would save companies millions of dollars. Consulting firms usually spend millions every year flying out their directions and technical leads to client sites, office locations, or even storage warehouse facilities. Most of the times, it is for the employee to interact with someone physically in order to either provide importance, make sure face-to-face, or just involve the members more. However, instead of wasting so much money on air tickets, hotels, and transportation charges, companies can instead utilize Holoportation to virtually construct a meeting space for employees and clients so that they can interact on a more personal level (not skype nor phone calls) and still stay local.
 
-Holoportation mobile extends this idea of collaboration **on the go**. This can work, however, more limitations such as bandwidth and processing power need to be overcome for this to be appropriately usable.
+Holoportation mobile extends this idea of collaboration **on the go**. This can work however. More limitations such as bandwidth and processing power need to be overcome for this to be appropriately usable.
 
 ## Tracking and Cameras
 
