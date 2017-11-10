@@ -36,7 +36,7 @@ Models are not interactable. This is a tough one as it is very difficult to appr
 
 With the technology being just over one year old, I believe there is much more space for the technology to grow before it becomes mainstream and be consumer usable. People adopt technology that is easy to use and “cool” to use. I think the application has many hurdles to overcome before they achieve that goal. The whole pipeline of this Holoportation technology can be visualized as:
 
-[image]
+[image]({{ site.url }}/assets/holoportation.PNG)
 
 Collaboration
 
