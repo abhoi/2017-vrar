@@ -4,7 +4,7 @@ title: Student Choice Presentation Technologies Review
 published: true
 ---
 
-For two weeks, I will discuss about two technologies that I found interesting and were discussed in class by fellow students. I will present my views on the technology, a brief introduction to the technology, the pros/cons, applications, a little bit about the company behind the technology, and finally a conclusive thought. Let us get started on the first one.
+For two weeks, I will discuss about two technologies that I found interesting and were discussed in class by fellow students. I will present my views on the technology, a brief introduction to the technology, the pros/cons, applications, and finally a conclusive thought. Let us get started on the first one.
 
 ## Pimax 8K
 
@@ -38,4 +38,22 @@ Now, the cons:
 
 2. **Availability/Funding**: Most of these kinds of projects get funded from crowdsourcing which hinders venture capitalists from investing in such companies. This would probably force the company to stop making the product due to the constraints. Secondly, the availability of this product says February 2018 but could easily be delayed due to production resource constraints. Pimax really needs to sort these issues out before declaring it a success.
 
+### Applications
 
+Where can a product like this be useful?
+
+1. **Military**: A great application would be in the military where even a miniscule detail can be the discriminatory factor between someone's life or death. Military personnel usually look for terrorists or bombs or IEDs and technology like this can make it easier for them to spot such things. Training recruitments to simulate real, war-like conditions is another way the military can use them.
+
+2. **Medical**: The medical industry can definitely benefit from the 8K resolution as they need to usually be insanely precise with their procedures. This applies heavily to surgeons performing intricate procedures.
+
+3. **Art**: The art industry can definitely benefit from the extra saturation, field of view, and resolution to explore and immerse themselves into artwork.
+
+There are many applications possible for this technology and can be extended to almost any field.
+
+### Conclusion
+
+In conclusion, I believe Pimax has come up with a brilliant product with great aspirations. They have raised the bar when it comes to resolution, refresh rates, quality, and precision. This is almost like a warning to big VR headset manufacturers to step up their standards of what they consider virtual reality. However, this also brings the problem of audience scope. Currently, the Pimax 8K is geared towards VR enthusiasts and the VR development and education industry. In no way is it ready for mass-scale production and end user consumption. I hope these problems can be broken through as it is a great product.
+
+## Neurable: Control VR with your mind
+
+Coming next week...
