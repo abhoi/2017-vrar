@@ -16,6 +16,8 @@ Let us look at the pros and cons of the product.
 
 ### PROS vs CONS
 
+First, the pros:
+
 1. **7680x2160 resolution:** This is important because VR headsets of today lack the clarity or crispness in viewing. A higher resolution also means a more immersive sense of VR to the end user. We do not want to see a pixelated view of the virtual world as it would detach us further from sense of reality. We want the VR world to feel as natural and real as the real world.
 
 ![pimax1]({{ site.url }}/assets/pimax1.gif)
@@ -26,4 +28,14 @@ Let us look at the pros and cons of the product.
 
 3. **90Hz Refresh Rate!**: This, for me, is one of the most impressive feats for this piece of technology. This is because we want to ensure the user feels almost zero latency or lag when in the VR world. A higher refresh rate (a gamer will tell you why it matters) results in more responsive object reactions, actions, and responses from the user.
 
-4. **No ScreenDoor effect: **: The ScreenDoor effect refers to the terribly exaggerated pixel lines that are shown to user in small resolution devices. It can get really annoying after a while as it removes the facade of virtual worlds.
+4. **No ScreenDoor effect: **: The ScreenDoor effect refers to the terribly exaggerated pixel lines that are shown to user in small resolution devices. It can get really annoying after a while as it removes the facade of virtual worlds. Also, no screendoor effect means drastically minimized **motion sickness**.
+
+Now, the cons:
+
+1. **Hardware Requirements**: The hardware requirements required to drive this system is infeasible for normal day use by a far mile. The company recommends running the headset on at least a Nvidia GTX 970 GPU (for 8KX you need **GTX 1080 Ti/Volta/Tesla!**), internal upscaling, and Brainwarp. This can be hard for people to acquire to run the headset. They may rather just prefer a HTC Vive or Oculus Rift to this when it comes to convenience.
+
+![pimax3]({{ site.url }}/assets/pimax3.jpeg)
+
+2. **Availability/Funding**: Most of these kinds of projects get funded from crowdsourcing which hinders venture capitalists from investing in such companies. This would probably force the company to stop making the product due to the constraints. Secondly, the availability of this product says February 2018 but could easily be delayed due to production resource constraints. Pimax really needs to sort these issues out before declaring it a success.
+
+
