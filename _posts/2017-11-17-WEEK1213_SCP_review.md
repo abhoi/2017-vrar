@@ -8,7 +8,7 @@ For two weeks, I will discuss about two technologies that I found interesting an
 
 ## Pimax 8K
 
-![Pimax 8k]({{site.baseurl}}/https://ksr-ugc.imgix.net/assets/014/865/737/22a6a55508e9f4bffd51cf22baaf26ab_original.png?crop=faces&w=1552&h=873&fit=crop&v=1505855621&auto=format&q=92&s=58b912f528ea1db176eb0faa7c47f288)
+![Pimax 8k](https://ksr-ugc.imgix.net/assets/014/865/737/22a6a55508e9f4bffd51cf22baaf26ab_original.png?crop=faces&w=1552&h=873&fit=crop&v=1505855621&auto=format&q=92&s=58b912f528ea1db176eb0faa7c47f288)
 
 Pimax 8K is a VR headset developed by Pimax. Pimax is a company founded by a team of VR enthusiasts in San Jose, CA that develops high end VR headsets. They started with the Pimax 4k [(VR in 4K resolution)](https://www.pimaxvr.com/en/4k/) and made it commercially viable. Their next project is the Pimax 8k. Now, at first glance, this may look like some ordinary VR headset like the HTC Vive or Oculus Rift. However, there are some careful differences between the Pimax 8k and others. We'll go over these differences in the pros/cons section of the review. The one great thing I liked about this project was the [kickstarter](https://www.kickstarter.com/projects/pimax8kvr/pimax-the-worlds-first-8k-vr-headset) effort. As of this post's date of writing, they have secured $4.2 million in funding! If the product was not genuine or really helpful, they would never have gotten the public trust for a crowdsourcing funding effort such as that.
 
