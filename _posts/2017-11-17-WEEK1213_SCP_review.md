@@ -18,4 +18,12 @@ Let us look at the pros and cons of the product.
 
 1. **7680x2160 resolution:** This is important because VR headsets of today lack the clarity or crispness in viewing. A higher resolution also means a more immersive sense of VR to the end user. We do not want to see a pixelated view of the virtual world as it would detach us further from sense of reality. We want the VR world to feel as natural and real as the real world.
 
-2. **200° Field of Vision:** A wider field of vision means the user is not limited to the restricted FOV of today's headsets. Increasing the field of view also
+![pimax1]({{ site.url }}/assets/pimax1.gif)
+
+2. **200° Field of Vision:** A wider field of vision means the user is not limited to the restricted FOV of today's headsets. Increasing the field of view also gives the user access to peripheral vision. This enables the user to see movement and actions that are not directly in the line of sight. This also gives a more realistic sense of vision than normal headsets.
+
+![pimax2]({{ site.url }}/assets/pimax2.gif)
+
+3. **90Hz Refresh Rate!**: This, for me, is one of the most impressive feats for this piece of technology. This is because we want to ensure the user feels almost zero latency or lag when in the VR world. A higher refresh rate (a gamer will tell you why it matters) results in more responsive object reactions, actions, and responses from the user.
+
+4. **No ScreenDoor effect: **: The ScreenDoor effect refers to the terribly exaggerated pixel lines that are shown to user in small resolution devices. It can get really annoying after a while as it removes the facade of virtual worlds.
