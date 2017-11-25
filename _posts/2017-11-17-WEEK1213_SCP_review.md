@@ -56,4 +56,40 @@ In conclusion, I believe Pimax has come up with a brilliant product with great a
 
 ## Neurable: Control VR with your mind
 
-Coming next week...
+![Neurable](http://www.gmonna.com/wp-content/uploads/2017/10/neurable.jpeg)
+
+Neurable is a VR company that aims to let users control actions and interactions in VR using brain patterns. They say it is a "brain-computer" interface that allows people to control the software using only brain activity. At first consideration, this seems far fetched and something possible only in the far future. However, a closer look reveals that the technology actually makes lots of ground and is quite good. Basically, the technology allows you to record and analyze brain activity and translate it into commands/functions/actions. For intent driven interactions, the system uses machine learning techniques. Let us have a look at the pros vs cons.
+
+### PROS vs CONS
+
+First, the pros:
+
+1. **Portable**: The system is portable and can be attached to any VR device. This means, compatibility is not an issue. It can be ported to an Oculus Rift or a HTC Vive. This removes lots of restrictions many other VR additions have. Also, making it more compatible allows faster adoption and lesser restrictions towards fast implementation.
+
+![HTC Vive](http://www.gmonna.com/wp-content/uploads/2017/10/MjkzNTk1NQ.jpeg)
+
+2. **Learnable (ML)**: The system uses a classifier to classify EEG control signals in real time into interactions. With enough signals as a training dataset, creating the classifier would not have been that difficult.
+
+3. **Easy of Use**: The whole point of using the brain and thoughts instead of controllers is to remove the learning curve in learning how a controller for a VR system works. Most of the times, new users in VR get confused as to what each button does on the controller. For example, the HTC vive controller has the Trigger button, the side button, and the touchpad button. For us, it is simple now because we have spent significant time with it. But, for new users, it can be difficult to adjust quickly. However, with a technology like Neurable, interacting with the VR world can simply be to just think what you want to do and do it in VR.
+
+Now, the cons:
+
+1. **Heavy Equipment**: The hardware portion of the system is quite bulky and requires some setup for the headset. As you can see in the image above, there is quite a bit of setup attached the the vanilla HTC vive headset. This can bring lots of problems including disorientation and feelings of discomfort. The company says they are trying to bring down the hardware requirements, but that can only be possible after optimizing the software.
+
+2. **Interaction Limitations**: There is only so much data and information you can get from EEG signals. This can be a limitation in some VR applications. One such application would be when playing a fast paced game and when interactions need to be instantaneous. Any delay, and that would result in a sub-optimal performance for any user.
+
+3. **Only Conceptual**: Some have provided skepticism as to if the system can be commercially viable. To get a product to run on the mainstream, consumer end level, you need to achieve a certain level of fault tolerance and efficiency which this product seems too far away from even in the near future. We can only wait and see where this technology goes.
+
+### Applications
+
+A product like this can be used in applications such as:
+
+1. **Data Visualization**: Sometimes, picking up stuff and moving objects around in VR when performing data visualization can be painfully slow and obtruse. Just thinking about where to place the data, where to go inside a data, which angle to view the information can be a great leap forward for scientists in every field.
+
+2. **Art**: Artists can now think about how they want the brush strokes to go in VR so that they can more naturally paint something. This would work well because they do not really care that much about latency and they only care about precision.
+
+3. **Medical**: With exception to emergency and surgery, I think this technology would work well to train doctors and even patients on how to work and think in the field. This could work great for psychologists too.
+
+### Conclusion
+
+In conclusion, I think Neurable is a great step forward in the field of marrying the two disciplines of neural technology and virtual reality. However, in reality, it is difficult seeing this project go to a fruitful end. The most possible scenario seems that this technology would just be remembered as a hyped implementation that went nowhere and was cool as a conceptual and at max a research based idea. It would take a miracle for Neurable to come to the mainstream.
