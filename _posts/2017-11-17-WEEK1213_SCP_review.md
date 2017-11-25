@@ -56,6 +56,8 @@ In conclusion, I believe Pimax has come up with a brilliant product with great a
 
 ## Neurable: Control VR with your mind
 
+[![PROJECT1](http://img.youtube.com/vi/47WHqDNckI8/0.jpg)](https://www.youtube.com/watch?v=47WHqDNckI8)
+
 ![Neurable](http://www.gmonna.com/wp-content/uploads/2017/10/neurable.jpeg)
 
 Neurable is a VR company that aims to let users control actions and interactions in VR using brain patterns. They say it is a "brain-computer" interface that allows people to control the software using only brain activity. At first consideration, this seems far fetched and something possible only in the far future. However, a closer look reveals that the technology actually makes lots of ground and is quite good. Basically, the technology allows you to record and analyze brain activity and translate it into commands/functions/actions. For intent driven interactions, the system uses machine learning techniques. Let us have a look at the pros vs cons.
